@@ -15,9 +15,9 @@ Rough requirements are as follows. g++ can be substitued for another compiler bu
 
 First cd into the `texturing-opengl` directory then follow the steps below:
 1. `mkdir build && cd build`
-2. `cmake .. && make'
+2. `cmake .. && make`
 
-An executable named Texture is made.
+An executable named `Texture` is made.
 
 The result:
 ![alt text](example.png)
