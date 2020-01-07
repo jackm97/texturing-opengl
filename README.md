@@ -1,7 +1,7 @@
 # texturing-opengl
 Rendering a rectangle in opengl and applying a texture. The rectangle moves horizontally according to a uniform set to sin(t) where t is time.
 
-I am learning opengl through the wonderful website learnopengl.com
+I am learning opengl through the wonderful website https://learnopengl.com
 
 # Building and Running
 I am working on linux, but by eliminating the linux-specific linker flags in the CMakeLists.txt file, it should run fine on Windows with opengl 3.30 supported hardware.
